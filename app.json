@@ -31,19 +31,22 @@
 
         "BOT_TOKEN": {
 
-            "description": "Your Bot token from @Botfather"
+            "description": "Your Bot token from @Botfather",
+            "value": "6975682316:AAHd_Sr7H4PA97GzpHp-Qg2UMxNb4o3UF0g"
 
         },
 
         "API_ID": {
 
-            "description": "Your API_ID from https://my.telegram.org/apps"
+            "description": "Your API_ID from https://my.telegram.org/apps",
+            "value": "20463500"
 
         },
 
         "API_HASH": {
 
-            "description": "Your API_HASH from https://my.telegram.org/apps"
+            "description": "Your API_HASH from https://my.telegram.org/apps",
+            "value": "5db9bc6439f7b43daa75689edf65b431"
 
         }
 
